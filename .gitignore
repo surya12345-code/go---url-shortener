@@ -1,0 +1,15 @@
+# Binaries
+*.exe
+*.out
+*.test
+
+# Logs
+*.log
+
+# Vendor folder
+/vendor/
+
+# IDE/editor configs
+.idea/
+.vscode/
+
